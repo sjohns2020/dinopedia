@@ -86,11 +86,11 @@ https://github.com/ColetteDufficy/dinopedia/assets/90625181/3614f6b3-541e-4ef8-a
 
 
 
-[website-shield]: https://img.shields.io/badge/Colette%20Dufficy-FFD300?style=for-the-badge&logo=aboutdotme&logoColor=242424
+[website-shield]: https://img.shields.io/badge/Sean%20Johnson-FFD300?style=for-the-badge&logo=aboutdotme&logoColor=242424
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-FFD300?style=for-the-badge&logo=linkedin&logoColor=242424
-[linkedin-url]: https://linkedin.com/in/colettedufficy/
+[linkedin-url]: https://www.linkedin.com/in/communicasean/
 [github-shield]: https://img.shields.io/badge/GitHub-FFD300?style=for-the-badge&logo=github&logoColor=242424
-[github-url]: https://github.com/ColetteDufficy
+[github-url]: https://github.com/Sjohns2020
 
 ## Group Project 
 What you see in this repository is a group project by Team Dinomite, created as our final assignment for a software development course at CodeClan with the rest of cohort WD23. Individually, we are [Colette Dufficy](https://github.com/ColetteDufficy), [Sean Johnson](https://github.com/sjohns2020), [Heather Lamont](https://github.com/HeatherLamont), and [Xander Mackenzie](https://github.com/crabbit-git).
